@@ -2,10 +2,10 @@
 
 <!-- Badges Block -->
 <center>
-<table border="1px">
+<table border="1px" align=center>
     <thead align="center">
         <tr>
-            <td colspan=2>Security Champions</td>
+            <th colspan=2>Security Champions</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -45,7 +45,7 @@
 <br><br>
 <!-- starting_badge_block -->
 <center>
-<table border="1px">
+<table border="1px" align=center>
     <thead>
         <tr>
             <th colspan="5">Security Champions</th>
